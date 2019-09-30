@@ -68,7 +68,7 @@ export default {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin: 0 auto;
+    margin: 0 auto 60px;
     @media screen and (min-width: 768px) {
       width: 660px;
     }
